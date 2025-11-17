@@ -51,6 +51,7 @@ def main():
     texts = [
         "I really love how this project turned out.",
         "The weather has been terrible all week.",
+        "The weather has been terrible all week except for today.",
         "I'm not sure how I feel about this…",
         "This is absolutely amazing!",
         "The service today was disappointing.",
